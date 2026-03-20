@@ -9,7 +9,9 @@ This is a cellular automaton that is played on a 2D square grid. Each square (or
 The initial configuration of cells can be created by a human, but all generations thereafter are completely determined by the above rules. The goal of the game is to find patterns that evolve in interesting ways – something that people have now been doing for over 50 years.
 
 ## Demo 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/git-notion/The-Game-of-Life/a055ff7b77cf5568f18d245a994019f2426a3393/Game%20of%20Life%202026-03-20%2020-51-14.gif" width="600"/>
+</p>
 
 ### Libraries used:
 1. Raylib https://www.raylib.com/
